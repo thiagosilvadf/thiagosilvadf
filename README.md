@@ -38,8 +38,7 @@ Iniciando o aprendizado com:
 <a/>
 <p/>
 <br>
-<br>
-
+ 
 [![Thiago Stats](https://github-readme-stats.vercel.app/api?username=thiagosilvadf)](https://github.com/anuraghazra/github-readme-stats)
 <br>
 <br>
